@@ -20,5 +20,6 @@ I’m a Flutter developer passionate about creating mobile applications.
 - Telegram: [@Denchick8](https://t.me/Denchick8)
 - GitHub: [lolopindik](https://github.com/lolopindik)
 
-### 🛠 Check out my pet project!
+### 🛠 Check out my pet projects!
 - [StudyHub](https://github.com/lolopindik/StudyHub)
+- [BuzzTech](https://github.com/lolopindik/ToDoList)
